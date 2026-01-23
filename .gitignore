@@ -202,3 +202,6 @@ src/experiments/model_training/data/train_full-v1.jsonl
 src/experiments/model_training/data/test_full-v1.jsonl
 
 RC_GRPO.pdf
+# Large expanded WMFT dataset files (use chunks instead)
+data/tau2/sft/expanded_wm_train.json
+data/tau2/sft/expanded_wm_test.json
