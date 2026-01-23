@@ -205,3 +205,5 @@ RC_GRPO.pdf
 # Large expanded WMFT dataset files (use chunks instead)
 data/tau2/sft/expanded_wm_train.json
 data/tau2/sft/expanded_wm_test.json
+data/tau2/sft/expanded_sft_train.json
+data/tau2/sft/expanded_sft_test.json

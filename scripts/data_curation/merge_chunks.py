@@ -49,22 +49,38 @@ def merge_chunks(chunks_dir: Path, output_file: Path):
 def main():
     base_path = Path(__file__).parent.parent.parent / "data" / "tau2" / "sft"
     
-    # Merge train chunks
+    # Merge WM train chunks
+    print("=" * 60)
+    print("WORLD MODEL DATASETS (with reward tokens)")
     print("=" * 60)
     merge_chunks(
         base_path / "expanded_wm_train_chunks",
         base_path / "expanded_wm_train.json"
     )
     
-    # Merge test chunks
-    print("\n" + "=" * 60)
+    print("\n" + "-" * 60)
     merge_chunks(
         base_path / "expanded_wm_test_chunks",
         base_path / "expanded_wm_test.json"
     )
     
+    # Merge SFT train chunks
     print("\n" + "=" * 60)
-    print("Done! Large files reconstructed.")
+    print("SFT DATASETS (success-only, no reward tokens)")
+    print("=" * 60)
+    merge_chunks(
+        base_path / "expanded_sft_train_chunks",
+        base_path / "expanded_sft_train.json"
+    )
+    
+    print("\n" + "-" * 60)
+    merge_chunks(
+        base_path / "expanded_sft_test_chunks",
+        base_path / "expanded_sft_test.json"
+    )
+    
+    print("\n" + "=" * 60)
+    print("Done! All dataset files reconstructed.")
     print("=" * 60)
 
 
