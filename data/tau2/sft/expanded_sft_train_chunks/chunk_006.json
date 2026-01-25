@@ -7,7 +7,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -125,7 +125,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -275,7 +275,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -536,7 +536,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -646,7 +646,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -851,7 +851,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -1048,7 +1048,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -1333,7 +1333,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -1554,7 +1554,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -1743,7 +1743,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -2076,7 +2076,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -2249,7 +2249,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -2415,7 +2415,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -2628,7 +2628,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -2786,7 +2786,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -2991,7 +2991,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -3172,7 +3172,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -3361,7 +3361,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -3630,7 +3630,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -3803,7 +3803,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -3985,7 +3985,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -4214,7 +4214,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -4387,7 +4387,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -4552,7 +4552,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -4701,7 +4701,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -4850,7 +4850,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -5031,7 +5031,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -5220,7 +5220,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -5425,7 +5425,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -5590,7 +5590,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -5707,7 +5707,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -5808,7 +5808,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -5909,7 +5909,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -6090,7 +6090,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -6407,7 +6407,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -6548,7 +6548,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -6737,7 +6737,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -6854,7 +6854,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -7051,7 +7051,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -7176,7 +7176,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -7373,7 +7373,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -7586,7 +7586,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -7719,7 +7719,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -7836,7 +7836,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -7969,7 +7969,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -8158,7 +8158,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -8355,7 +8355,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -8488,7 +8488,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -8637,7 +8637,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -8842,7 +8842,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -8991,7 +8991,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -9228,7 +9228,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -9473,7 +9473,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -9694,7 +9694,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -9843,7 +9843,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -10000,7 +10000,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -10109,7 +10109,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -10266,7 +10266,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -10503,7 +10503,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -10724,7 +10724,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -10842,7 +10842,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -10968,7 +10968,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -11149,7 +11149,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -11306,7 +11306,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -11575,7 +11575,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -11828,7 +11828,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -11946,7 +11946,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -12175,7 +12175,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -12348,7 +12348,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -12505,7 +12505,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -12678,7 +12678,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -12787,7 +12787,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -13048,7 +13048,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -13237,7 +13237,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -13474,7 +13474,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -13584,7 +13584,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -13726,7 +13726,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -13875,7 +13875,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -13993,7 +13993,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -14119,7 +14119,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -14260,7 +14260,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -14425,7 +14425,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -14542,7 +14542,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -14731,7 +14731,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -14936,7 +14936,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -15094,7 +15094,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -15315,7 +15315,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -15584,7 +15584,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -15797,7 +15797,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -16010,7 +16010,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -16183,7 +16183,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -16436,7 +16436,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -16609,7 +16609,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -16782,7 +16782,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -17011,7 +17011,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -17320,7 +17320,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -17517,7 +17517,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -17698,7 +17698,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -17887,7 +17887,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -18060,7 +18060,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -18217,7 +18217,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -18318,7 +18318,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -18419,7 +18419,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -18528,7 +18528,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -18645,7 +18645,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -18810,7 +18810,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -19007,7 +19007,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -19180,7 +19180,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -19393,7 +19393,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -19518,7 +19518,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -19707,7 +19707,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -19896,7 +19896,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -20101,7 +20101,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -20306,7 +20306,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -20447,7 +20447,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -20572,7 +20572,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -20665,7 +20665,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -20782,7 +20782,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -20987,7 +20987,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -21112,7 +21112,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -21229,7 +21229,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -21410,7 +21410,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -21503,7 +21503,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -21708,7 +21708,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -21913,7 +21913,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -22070,7 +22070,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -22251,7 +22251,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -22464,7 +22464,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -22613,7 +22613,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -22762,7 +22762,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -22847,7 +22847,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -23108,7 +23108,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -23265,7 +23265,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -23494,7 +23494,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -23723,7 +23723,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -23984,7 +23984,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -24205,7 +24205,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -24450,7 +24450,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -24560,7 +24560,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -24677,7 +24677,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -24850,7 +24850,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -24968,7 +24968,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -25085,7 +25085,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -25202,7 +25202,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -25431,7 +25431,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -25549,7 +25549,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -25722,7 +25722,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -25911,7 +25911,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -26052,7 +26052,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -26170,7 +26170,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -26423,7 +26423,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -26636,7 +26636,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -26865,7 +26865,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -27078,7 +27078,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -27220,7 +27220,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -27425,7 +27425,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -27726,7 +27726,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -27987,7 +27987,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -28152,7 +28152,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -28325,7 +28325,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -28474,7 +28474,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -28648,7 +28648,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -28805,7 +28805,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -29010,7 +29010,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -29168,7 +29168,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -29326,7 +29326,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -29539,7 +29539,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -29720,7 +29720,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -30053,7 +30053,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -30226,7 +30226,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -30383,7 +30383,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -30556,7 +30556,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -30721,7 +30721,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -30918,7 +30918,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -31075,7 +31075,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -31280,7 +31280,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -31477,7 +31477,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -31658,7 +31658,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -31855,7 +31855,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -32060,7 +32060,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -32289,7 +32289,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -32478,7 +32478,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -32675,7 +32675,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -32880,7 +32880,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -33093,7 +33093,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -33298,7 +33298,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -33551,7 +33551,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -33748,7 +33748,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -34001,7 +34001,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -34246,7 +34246,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -34475,7 +34475,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -34664,7 +34664,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -34909,7 +34909,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -35178,7 +35178,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -35439,7 +35439,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -35716,7 +35716,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -35945,7 +35945,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -36214,7 +36214,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -36483,7 +36483,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -36744,7 +36744,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -36949,7 +36949,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -37060,7 +37060,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -37160,7 +37160,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -37307,7 +37307,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -37482,7 +37482,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -37684,7 +37684,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -37840,7 +37840,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -37968,7 +37968,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -38139,7 +38139,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -38323,7 +38323,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -38499,7 +38499,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -38693,7 +38693,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -38887,7 +38887,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -39043,7 +39043,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -39227,7 +39227,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -39411,7 +39411,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -39567,7 +39567,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -39780,7 +39780,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -39960,7 +39960,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -40116,7 +40116,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -40300,7 +40300,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -40523,7 +40523,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -40796,7 +40796,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -41053,7 +41053,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -41298,7 +41298,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -41565,7 +41565,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -41833,7 +41833,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -42118,7 +42118,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -42439,7 +42439,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -42670,7 +42670,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -43029,7 +43029,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -43398,7 +43398,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -43716,7 +43716,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -44027,7 +44027,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -44365,7 +44365,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -44733,7 +44733,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -45056,7 +45056,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -45404,7 +45404,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -45817,7 +45817,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -46131,7 +46131,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -46419,7 +46419,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -46802,7 +46802,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -47161,7 +47161,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -47468,7 +47468,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -47903,7 +47903,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -48050,7 +48050,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -48449,7 +48449,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -48774,7 +48774,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -49127,7 +49127,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -49283,7 +49283,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -49781,7 +49781,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -49937,7 +49937,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -50118,7 +50118,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -50297,7 +50297,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -50657,7 +50657,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -51003,7 +51003,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -51484,7 +51484,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -51922,7 +51922,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -52087,7 +52087,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -52297,7 +52297,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -52472,7 +52472,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -52895,7 +52895,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -53325,7 +53325,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -53574,7 +53574,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -54019,7 +54019,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -54241,7 +54241,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -54425,7 +54425,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -54913,7 +54913,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -55198,7 +55198,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -55589,7 +55589,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -55990,7 +55990,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -56090,7 +56090,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -56598,7 +56598,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -56842,7 +56842,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -57346,7 +57346,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -57929,7 +57929,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -58184,7 +58184,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -58312,7 +58312,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -58961,7 +58961,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -59501,7 +59501,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -59793,7 +59793,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -60220,7 +60220,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -60495,7 +60495,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -61082,7 +61082,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -61274,7 +61274,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -61808,7 +61808,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -62323,7 +62323,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -62479,7 +62479,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -62645,7 +62645,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -62876,7 +62876,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -63305,7 +63305,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -63673,7 +63673,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -63948,7 +63948,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -64400,7 +64400,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -64693,7 +64693,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -64868,7 +64868,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -65155,7 +65155,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -65459,7 +65459,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -65770,7 +65770,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -66150,7 +66150,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -66344,7 +66344,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -66758,7 +66758,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -67048,7 +67048,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -67270,7 +67270,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -67631,7 +67631,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -68322,7 +68322,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -68654,7 +68654,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -69031,7 +69031,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -69370,7 +69370,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -69737,7 +69737,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -69976,7 +69976,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -70499,7 +70499,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -70768,7 +70768,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -71009,7 +71009,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -71297,7 +71297,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -71665,7 +71665,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -71784,7 +71784,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -72359,7 +72359,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -72487,7 +72487,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -73307,7 +73307,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -73670,7 +73670,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -74195,7 +74195,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -74323,7 +74323,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -74749,7 +74749,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -74924,7 +74924,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -75278,7 +75278,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -75610,7 +75610,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -75785,7 +75785,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -75971,7 +75971,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -76325,7 +76325,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -76481,7 +76481,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -76637,7 +76637,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -77095,7 +77095,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -77428,7 +77428,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -77830,7 +77830,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -78029,7 +78029,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -78335,7 +78335,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -78519,7 +78519,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -78722,7 +78722,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -79232,7 +79232,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -79633,7 +79633,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -79908,7 +79908,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -80153,7 +80153,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -80635,7 +80635,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -80912,7 +80912,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -81742,7 +81742,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -82258,7 +82258,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -82358,7 +82358,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -82632,7 +82632,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -82985,7 +82985,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -83422,7 +83422,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -83674,7 +83674,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -84142,7 +84142,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -84580,7 +84580,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -84708,7 +84708,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -85002,7 +85002,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -85294,7 +85294,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -85486,7 +85486,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -85797,7 +85797,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -86274,7 +86274,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -86741,7 +86741,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -87308,7 +87308,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -87882,7 +87882,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -88038,7 +88038,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -88292,7 +88292,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -88866,7 +88866,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -89155,7 +89155,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -90174,7 +90174,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -90413,7 +90413,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -91040,7 +91040,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -91215,7 +91215,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -91794,7 +91794,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -91969,7 +91969,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -92192,7 +92192,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -92534,7 +92534,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -92709,7 +92709,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -93153,7 +93153,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -93466,7 +93466,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -93853,7 +93853,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -94471,7 +94471,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -94803,7 +94803,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -95133,7 +95133,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -95942,7 +95942,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -96154,7 +96154,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -96540,7 +96540,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -96854,7 +96854,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -97244,7 +97244,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -97906,7 +97906,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -98358,7 +98358,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -98729,7 +98729,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -99017,7 +99017,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -99388,7 +99388,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -99815,7 +99815,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -99925,7 +99925,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -100310,7 +100310,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -100645,7 +100645,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -100979,7 +100979,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -101266,7 +101266,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -101413,7 +101413,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -101569,7 +101569,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -101741,7 +101741,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -102522,7 +102522,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -102678,7 +102678,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -102838,7 +102838,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -103172,7 +103172,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -103320,7 +103320,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -103501,7 +103501,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -103695,7 +103695,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -104134,7 +104134,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -104314,7 +104314,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -104489,7 +104489,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -104669,7 +104669,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -105013,7 +105013,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -105414,7 +105414,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -105839,7 +105839,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -106201,7 +106201,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -106573,7 +106573,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -107011,7 +107011,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -107111,7 +107111,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -107323,7 +107323,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -107526,7 +107526,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -107811,7 +107811,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -108038,7 +108038,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -108663,7 +108663,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -108792,7 +108792,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -108920,7 +108920,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -109417,7 +109417,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -109923,7 +109923,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -110178,7 +110178,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -110662,7 +110662,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -111168,7 +111168,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -111584,7 +111584,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -112107,7 +112107,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -112411,7 +112411,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -112713,7 +112713,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -112869,7 +112869,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -113312,7 +113312,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -113808,7 +113808,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -114366,7 +114366,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -114915,7 +114915,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -115081,7 +115081,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -115622,7 +115622,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -116145,7 +116145,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -116426,7 +116426,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -116708,7 +116708,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -117202,7 +117202,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -117406,7 +117406,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -117675,7 +117675,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -117940,7 +117940,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -118279,7 +118279,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -118657,7 +118657,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -118960,7 +118960,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -119173,7 +119173,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -119776,7 +119776,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -120025,7 +120025,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -120329,7 +120329,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -120975,7 +120975,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -121630,7 +121630,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -121962,7 +121962,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -122219,7 +122219,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -122450,7 +122450,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -122691,7 +122691,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -122956,7 +122956,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -123225,7 +123225,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -123465,7 +123465,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -123856,7 +123856,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -124244,7 +124244,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -124560,7 +124560,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -125039,7 +125039,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -125364,7 +125364,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -125660,7 +125660,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -126125,7 +126125,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -126533,7 +126533,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -127111,7 +127111,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -127702,7 +127702,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -128121,7 +128121,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -128560,7 +128560,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -128951,7 +128951,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -129339,7 +129339,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -129862,7 +129862,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -130291,7 +130291,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -130857,7 +130857,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -131377,7 +131377,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -131834,7 +131834,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -132352,7 +132352,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -132847,7 +132847,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -133379,7 +133379,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -133927,7 +133927,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -134571,7 +134571,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -135084,7 +135084,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -135551,7 +135551,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -136081,7 +136081,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -136640,7 +136640,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -137230,7 +137230,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -137761,7 +137761,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|low_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -138354,7 +138354,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -138930,7 +138930,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -139003,7 +139003,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -139076,7 +139076,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",
@@ -139157,7 +139157,7 @@
       },
       {
         "role": "user",
-        "content": "[Start conversation]\n\n[Reward Goal: <|high_reward|>]"
+        "content": "[Start conversation]"
       },
       {
         "role": "assistant",

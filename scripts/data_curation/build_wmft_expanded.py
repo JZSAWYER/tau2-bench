@@ -1,9 +1,17 @@
 #!/usr/bin/env python3
 """
-Build Expanded WMFT Dataset for τ²-bench
+Build Expanded SFT and WMFT Datasets for τ²-bench
 
 Converts ALL τ²-bench benchmark results (GPT-4.1, Claude, O4-mini) to OpenAI format
-for World Model Fine-Tuning with reward conditioning tokens.
+for Supervised Fine-Tuning (SFT) and World Model Fine-Tuning (WMFT).
+
+KEY DESIGN: Both SFT and WM formats have IDENTICAL fields:
+  - messages, tools, final_reward, reward_breakdown
+  - domain, task_id, trial, termination_reason
+
+The ONLY difference between SFT and WM is:
+  - SFT: No reward token in messages (pure imitation learning)
+  - WM:  [Reward Goal: <|high_reward|>] or <|low_reward|> injected in first user message
 
 Features:
 - Includes ALL trials (not just first successful one)
@@ -13,7 +21,14 @@ Features:
 - OpenAI format with strict alternation fix for LLaMA-Factory
 
 Usage:
+    # Generate both SFT and WM formats (default)
     python build_wmft_expanded.py --output-dir data/tau2/sft
+    
+    # Generate only SFT format
+    python build_wmft_expanded.py --output-dir data/tau2/sft --format sft
+    
+    # Generate only WM format
+    python build_wmft_expanded.py --output-dir data/tau2/sft --format wm
 """
 
 import argparse
@@ -312,7 +327,21 @@ def convert_simulation_to_openai(
     tools: List[Dict],
     add_reward_token: bool = True
 ) -> Optional[Dict]:
-    """Convert a single τ²-bench simulation to OpenAI format with reward token."""
+    """
+    Convert a single τ²-bench simulation to OpenAI format.
+    
+    Args:
+        simulation: Raw simulation data
+        domain: Domain name
+        policy: Policy document
+        tools: Tool definitions
+        add_reward_token: If True, inject reward token into messages (WM format)
+                         If False, no reward token (SFT format)
+    
+    Returns:
+        Dict with identical fields for both SFT and WM formats.
+        The ONLY difference is whether reward token is in messages.
+    """
     messages = simulation.get('messages', [])
     reward_info = simulation.get('reward_info', {})
     
@@ -345,7 +374,7 @@ Try to be helpful and always follow the policy. Always make sure you generate va
     if not openai_messages or len(openai_messages) < 2:
         return None
     
-    # Add reward token to first user message (after system)
+    # Add reward token to first user message (after system) - ONLY difference between SFT and WM
     if add_reward_token:
         reward_token = get_reward_token(final_reward)
         for i, msg in enumerate(openai_messages):
@@ -353,6 +382,8 @@ Try to be helpful and always follow the policy. Always make sure you generate va
                 msg['content'] = msg['content'] + f"\n\n[Reward Goal: {reward_token}]"
                 break
     
+    # Return IDENTICAL structure for both SFT and WM
+    # The ONLY difference is whether reward token is injected into messages above
     return {
         'messages': openai_messages,
         'tools': tools,
@@ -392,9 +423,24 @@ def process_result_file(
     filepath: Path,
     splits: Dict[str, Dict[str, set]],
     policies: Dict[str, str],
-    tools_cache: Dict[str, List[Dict]]
+    tools_cache: Dict[str, List[Dict]],
+    add_reward_token: bool = True
 ) -> Tuple[List[Dict], List[Dict], Dict]:
-    """Process a single result file and return train/test trajectories."""
+    """
+    Process a single result file and return train/test trajectories.
+    
+    Args:
+        filepath: Path to result file
+        splits: Train/test task ID splits
+        policies: Domain policies
+        tools_cache: Domain tool definitions
+        add_reward_token: If True, generate WM format (with reward token)
+                         If False, generate SFT format (no reward token)
+    
+    Returns:
+        Tuple of (train_trajectories, test_trajectories, stats)
+        Both formats have IDENTICAL fields - only messages content differs.
+    """
     train_trajectories = []
     test_trajectories = []
     stats = {'total': 0, 'train': 0, 'test': 0, 'skipped': 0, 'invalid': 0}
@@ -430,9 +476,9 @@ def process_result_file(
             stats['skipped'] += 1
             continue
         
-        # Convert to OpenAI format
+        # Convert to OpenAI format (SFT or WM based on add_reward_token)
         trajectory = convert_simulation_to_openai(
-            sim, domain, policy, tools, add_reward_token=True
+            sim, domain, policy, tools, add_reward_token=add_reward_token
         )
         
         if not trajectory:
@@ -457,7 +503,7 @@ def process_result_file(
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Build expanded WMFT dataset from τ²-bench results"
+        description="Build expanded SFT and WMFT datasets from τ²-bench results"
     )
     parser.add_argument(
         "--output-dir",
@@ -470,6 +516,13 @@ def main():
         type=str,
         default=None,
         help="Results directory (default: data/tau2/results/final)"
+    )
+    parser.add_argument(
+        "--format",
+        type=str,
+        choices=["sft", "wm", "both"],
+        default="both",
+        help="Output format: sft (no reward token), wm (with reward token), or both"
     )
     
     args = parser.parse_args()
@@ -500,70 +553,86 @@ def main():
     result_files = list(results_dir.glob("*.json"))
     logger.info(f"Found {len(result_files)} result files")
     
-    # Process all files
-    all_train = []
-    all_test = []
-    total_stats = defaultdict(int)
-    domain_stats = defaultdict(lambda: defaultdict(int))
-    reward_stats = {'train': defaultdict(int), 'test': defaultdict(int)}
+    # Determine which formats to generate
+    formats_to_generate = []
+    if args.format in ["sft", "both"]:
+        formats_to_generate.append(("sft", False))  # (name, add_reward_token)
+    if args.format in ["wm", "both"]:
+        formats_to_generate.append(("wm", True))
     
-    for filepath in result_files:
-        logger.info(f"Processing: {filepath.name}")
-        train, test, stats = process_result_file(filepath, splits, policies, tools_cache)
+    for format_name, add_reward_token in formats_to_generate:
+        logger.info(f"\n{'='*60}")
+        logger.info(f"Generating {format_name.upper()} format (reward_token={add_reward_token})")
+        logger.info(f"{'='*60}")
         
-        all_train.extend(train)
-        all_test.extend(test)
+        # Process all files for this format
+        all_train = []
+        all_test = []
+        total_stats = defaultdict(int)
+        domain_stats = defaultdict(lambda: defaultdict(int))
+        reward_stats = {'train': defaultdict(int), 'test': defaultdict(int)}
         
-        domain = extract_domain_from_filename(filepath.name)
-        for key, val in stats.items():
-            total_stats[key] += val
-            domain_stats[domain][key] += val
+        for filepath in result_files:
+            logger.info(f"Processing: {filepath.name}")
+            train, test, stats = process_result_file(
+                filepath, splits, policies, tools_cache,
+                add_reward_token=add_reward_token
+            )
+            
+            all_train.extend(train)
+            all_test.extend(test)
+            
+            domain = extract_domain_from_filename(filepath.name)
+            for key, val in stats.items():
+                total_stats[key] += val
+                domain_stats[domain][key] += val
+            
+            # Track reward distribution
+            for t in train:
+                r = t.get('final_reward', 0)
+                reward_stats['train']['success' if r >= 1.0 else 'failure'] += 1
+            for t in test:
+                r = t.get('final_reward', 0)
+                reward_stats['test']['success' if r >= 1.0 else 'failure'] += 1
         
-        # Track reward distribution
-        for t in train:
-            r = t.get('final_reward', 0)
-            reward_stats['train']['success' if r >= 1.0 else 'failure'] += 1
-        for t in test:
-            r = t.get('final_reward', 0)
-            reward_stats['test']['success' if r >= 1.0 else 'failure'] += 1
+        # Save outputs
+        train_path = output_dir / f"expanded_{format_name}_train.json"
+        test_path = output_dir / f"expanded_{format_name}_test.json"
+        
+        logger.info(f"\nSaving {len(all_train)} train trajectories to {train_path}")
+        with open(train_path, 'w', encoding='utf-8') as f:
+            json.dump(all_train, f, ensure_ascii=False, indent=2)
+        
+        logger.info(f"Saving {len(all_test)} test trajectories to {test_path}")
+        with open(test_path, 'w', encoding='utf-8') as f:
+            json.dump(all_test, f, ensure_ascii=False, indent=2)
+        
+        # Print statistics
+        logger.info(f"\n{format_name.upper()} Statistics:")
+        logger.info(f"  Processed: {total_stats['total']}")
+        logger.info(f"  Train: {total_stats['train']}")
+        logger.info(f"  Test: {total_stats['test']}")
+        logger.info(f"  Skipped (not in split): {total_stats['skipped']}")
+        logger.info(f"  Invalid: {total_stats['invalid']}")
+        
+        logger.info(f"\nBy Domain:")
+        for domain in ['airline', 'retail', 'telecom']:
+            ds = domain_stats[domain]
+            logger.info(f"  {domain}: train={ds['train']}, test={ds['test']}, skipped={ds['skipped']}")
+        
+        logger.info(f"\nReward Distribution:")
+        logger.info(f"  Train: {reward_stats['train']['success']} success, {reward_stats['train']['failure']} failure")
+        logger.info(f"  Test: {reward_stats['test']['success']} success, {reward_stats['test']['failure']} failure")
     
-    # Save outputs
-    train_path = output_dir / "expanded_wm_train.json"
-    test_path = output_dir / "expanded_wm_test.json"
-    
-    logger.info(f"\nSaving {len(all_train)} train trajectories to {train_path}")
-    with open(train_path, 'w', encoding='utf-8') as f:
-        json.dump(all_train, f, ensure_ascii=False, indent=2)
-    
-    logger.info(f"Saving {len(all_test)} test trajectories to {test_path}")
-    with open(test_path, 'w', encoding='utf-8') as f:
-        json.dump(all_test, f, ensure_ascii=False, indent=2)
-    
-    # Print statistics
     logger.info("\n" + "=" * 60)
-    logger.info("WMFT DATASET EXPANSION COMPLETE")
+    logger.info("DATASET GENERATION COMPLETE")
     logger.info("=" * 60)
-    
-    logger.info(f"\nTotal Statistics:")
-    logger.info(f"  Processed: {total_stats['total']}")
-    logger.info(f"  Train: {total_stats['train']}")
-    logger.info(f"  Test: {total_stats['test']}")
-    logger.info(f"  Skipped (not in split): {total_stats['skipped']}")
-    logger.info(f"  Invalid: {total_stats['invalid']}")
-    
-    logger.info(f"\nBy Domain:")
-    for domain in ['airline', 'retail', 'telecom']:
-        ds = domain_stats[domain]
-        logger.info(f"  {domain}: train={ds['train']}, test={ds['test']}, skipped={ds['skipped']}")
-    
-    logger.info(f"\nReward Distribution:")
-    logger.info(f"  Train: {reward_stats['train']['success']} success, {reward_stats['train']['failure']} failure")
-    logger.info(f"  Test: {reward_stats['test']['success']} success, {reward_stats['test']['failure']} failure")
-    
-    logger.info("\n" + "=" * 60)
-    logger.info(f"Output files:")
-    logger.info(f"  {train_path}")
-    logger.info(f"  {test_path}")
+    logger.info(f"\nBoth SFT and WM formats have IDENTICAL fields:")
+    logger.info(f"  - messages, tools, final_reward, reward_breakdown")
+    logger.info(f"  - domain, task_id, trial, termination_reason")
+    logger.info(f"\nThe ONLY difference:")
+    logger.info(f"  - SFT: No reward token in messages")
+    logger.info(f"  - WM:  [Reward Goal: <|high_reward|>] or <|low_reward|> in first user message")
     logger.info("=" * 60)
     
     return 0
