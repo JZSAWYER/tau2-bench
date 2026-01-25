@@ -66,7 +66,7 @@ def main():
     
     # Merge SFT train chunks
     print("\n" + "=" * 60)
-    print("SFT DATASETS (success-only, no reward tokens)")
+    print("SFT DATASETS (identical fields to WM, no reward tokens in messages)")
     print("=" * 60)
     merge_chunks(
         base_path / "expanded_sft_train_chunks",
